@@ -49,24 +49,6 @@ Ce projet applique des techniques de finance quantitative et de data science afi
 
 ---
 
-## Resultats cles (exemple)
-
-* Pondérations optimales du portefeuille :
-
-  * AAPL : 71.40%
-  * AMZN : 13.03%
-  * GOOGL : 14.24%
-  * MSFT : 0.00%
-  * TSLA : 1.32%
-
-* Performance attendue :
-
-  * Rendement annuel : environ 15.1%
-  * Volatilite annuelle : environ 26.4%
-  * Ratio de Sharpe : environ 0.50
-
----
-
 ## Ameliorations possibles
 
 * Ajouter d autres actions ou secteurs pour diversifier l analyse
