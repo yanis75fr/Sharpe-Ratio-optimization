@@ -40,15 +40,6 @@ Ce projet applique des techniques de finance quantitative et de data science afi
 
 ---
 
-## Structure du projet
-
-```
-├── portfolio_analysis.py   # Script principal
-├── README.md               # Documentation
-```
-
----
-
 ## Ameliorations possibles
 
 * Ajouter d autres actions ou secteurs pour diversifier l analyse
