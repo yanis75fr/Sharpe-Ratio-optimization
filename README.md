@@ -1,34 +1,36 @@
-# Analyse de Portefeuille et Optimisation du Ratio de Sharpe
+---
 
-Ce projet applique des techniques de finance quantitative et de data science afin d analyser la performance de plusieurs actions technologiques (AAPL, MSFT, GOOGL, AMZN, TSLA) et d optimiser un portefeuille selon le ratio de Sharpe.
+# Portfolio Analysis and Sharpe Ratio Optimization
+
+This project applies quantitative finance and data science techniques to analyze the performance of several technology stocks (AAPL, MSFT, GOOGL, AMZN, TSLA) and optimize a portfolio based on the Sharpe ratio.
 
 ---
 
-## Fonctionnalites
+## Features
 
-* Telechargement automatique des donnees boursieres via `yfinance`
-* Nettoyage et transformation des donnees (Close, Open, Volume)
-* Integration des jours feries US pour filtrer les donnees de marche
-* Calculs financiers :
+* Automatic stock data download using `yfinance`
+* Data cleaning and transformation (Close, Open, Volume)
+* Integration of U.S. holidays to filter market data
+* Financial calculations:
 
-  * Rendements simples et logarithmiques
-  * Rendement cumule
-  * Volatilite annualisee (fenetre mobile de 30 jours)
-  * Ratio de Sharpe par action
-* Optimisation du portefeuille avec `scipy.optimize` :
+  * Simple and logarithmic returns
+  * Cumulative returns
+  * Annualized volatility (30-day rolling window)
+  * Sharpe ratio per stock
+* Portfolio optimization with `scipy.optimize`:
 
-  * Maximisation du ratio de Sharpe
-  * Contraintes de ponderation (somme = 1, pas de vente a decouvert)
-* Visualisations avec `matplotlib` :
+  * Sharpe ratio maximization
+  * Weight constraints (sum = 1, no short selling)
+* Visualizations with `matplotlib`:
 
-  * Performance normalisee des actions (base 100)
-  * Rendements cumules
-  * Volatilite annualisee
-  * Bar chart du ratio de Sharpe
+  * Normalized stock performance (base 100)
+  * Cumulative returns
+  * Annualized volatility
+  * Sharpe ratio bar chart
 
 ---
 
-## Technologies utilisees
+## Technologies Used
 
 * Python 3.x
 * yfinance
@@ -40,18 +42,16 @@ Ce projet applique des techniques de finance quantitative et de data science afi
 
 ---
 
-## Ameliorations possibles
+## Possible Improvements
 
-* Ajouter d autres actions ou secteurs pour diversifier l analyse
-* Tester differentes frequences (hebdomadaire, mensuelle)
-* Comparer l optimisation avec d autres methodes (ex. Markowitz classique)
-* Integrer une interface interactive (Dash, Streamlit)
-
----
-
-## Avertissement
-
-Ce projet est realise a des fins educatives.
-Il ne constitue en aucun cas une recommandation d investissement.
+* Add more stocks or sectors to diversify the analysis
+* Test different frequencies (weekly, monthly)
+* Compare optimization methods (e.g., classical Markowitz)
+* Build an interactive interface (Dash, Streamlit)
 
 ---
+
+## Disclaimer
+
+This project is for educational purposes only.
+It does **not** constitute investment advice.
