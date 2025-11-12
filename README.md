@@ -7,12 +7,6 @@
 
 ---
 
-## 🧰 Technologies
-Python 3.x  
-Bibliothèques : `pandas`, `numpy`, `matplotlib`, `scipy`, `yfinance`, `holidays`
-
----
-
 ## ⚠️ Avertissement
 > Ce projet est à but éducatif uniquement.  
 > Il ne constitue pas un conseil en investissement.
