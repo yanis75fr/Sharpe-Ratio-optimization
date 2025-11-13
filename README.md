@@ -5,12 +5,6 @@
 
 ---
 
-## ⚠️ Disclaimer
-> This project is for educational purposes only.  
-> It does not constitute financial or investment advice.
-
----
-
 © 2025 — Yanis Calvo
 
 
