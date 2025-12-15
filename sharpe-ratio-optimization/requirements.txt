@@ -1,0 +1,25 @@
+# =============================================================================
+# SHARPE RATIO OPTIMIZATION - PYTHON DEPENDENCIES
+# =============================================================================
+# Installation: pip install -r requirements.txt
+# =============================================================================
+
+# Stock data download
+yfinance>=0.2.0
+
+# Data manipulation and analysis
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualization
+matplotlib>=3.6.0
+
+# Mathematical optimization
+scipy>=1.9.0
+
+# US holidays management
+holidays>=0.25
+
+# Jupyter Notebook (optional, to run the notebook)
+jupyter>=1.0.0
+notebook>=6.5.0
