@@ -171,7 +171,8 @@ The notebook generates 5 charts:
 
 ## 📄 Documentation
 
-The detailed project report is available in [`docs/Projet_1_de_python.pdf`](docs/Projet_1_de_python.pdf).
+The detailed project report is available in [Projet_1_de_python.pdf](https://github.com/user-attachments/files/24174324/Projet_1_de_python.pdf)
+
 
 ## 👤 Author
 
