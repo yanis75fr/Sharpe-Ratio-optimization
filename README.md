@@ -1,9 +1,5 @@
 # 📊 Portfolio Analysis and Sharpe Ratio Optimization
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
-
 > Portfolio analysis and Sharpe Ratio optimization for major tech stocks (AAPL, GOOGL, TSLA, MSFT)
 
 ## 📋 Description
