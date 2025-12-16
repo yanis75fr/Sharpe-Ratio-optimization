@@ -34,8 +34,6 @@ Sharpe-Ratio-optimization/
 ├── Sharpe_ratio_optimization.ipynb   # Main notebook
 ├── README.md                          # Documentation
 ├── requirements.txt                   # Python dependencies
-├── .gitignore                         # Git ignored files
-├── LICENSE                            # MIT License
 └── docs/
     └── Python_Project_Report.pdf      # Detailed report
 ```
