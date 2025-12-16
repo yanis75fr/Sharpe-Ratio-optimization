@@ -175,4 +175,4 @@ The detailed project report is available in [`docs/Python_Project_Report.pdf`](d
 
 **Yanis Calvo**
 
-- GitHub: [@yanis75fr](https://github.com/yanis75fr)
+- GitHub: [@yaniscalvo]
